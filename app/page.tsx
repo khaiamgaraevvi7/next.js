@@ -7,7 +7,7 @@ export default function Home() {
         <div className="">
           <h2 className="text-center text-lg">Next.js</h2>
         </div>
-        <Button className="bg-blue-600 hover:bg-blue-800">Sipariş Edin</Button>
+        <Button className="bg-blue-600 hover:bg-blue-800">Demo Mode</Button>
       </main>
     </div>
   );
