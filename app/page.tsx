@@ -1,6 +1,4 @@
-import { Pacifico } from "next/font/google";
 
-const pacifiko = Pacifico({ subsets: ["latin-ext"], weight: "400" });
 
 export default function Home() {
   return (
